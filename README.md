@@ -19,4 +19,8 @@
 **Connect with me!!** 
  
 
-<img src= "https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white"/> <img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img src= "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  <img src= "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> <img src= "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://www.linkedin.com/in/anushka-singh-53262122a/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/in.png" alt="LinkedIn" width="42"></a>
+<a href="https://www.linkedin.com/in/anushka-singh/" target="_blank">
+<a href="https://www.instagram.com/anushkaa___________/" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/ig.png" alt="Instagram" width="42"></a>
+<a href="https://github.com/Anushka-Singh1" target="_blank"><img src="https://raw.githubusercontent.com/arturssmirnovs/arturssmirnovs/master/git.png" alt="GitHub" width="42"></a>
+
