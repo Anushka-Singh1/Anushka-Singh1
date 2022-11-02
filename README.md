@@ -16,8 +16,7 @@
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-Singh1&show_icons=true&theme=radical)
 
-[![@anushka2002's Holopin board](https://holopin.me/anushka2002)](https://holopin.io/@anushka2002)
-
+ [![@anushka2002's Holopin board](https://holopin.me/anushka2002)](https://holopin.io/@anushka2002)
 **Connect with me!!** 
  
 
